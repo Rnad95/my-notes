@@ -37,7 +37,7 @@ We learned about how we get a good developer mindset using key points when someb
 20- **Running Away From Rewriting**  
 21- **Documentation and Commenting**  
 22- **Picking Technologies**  
-23- **Self-Development**
+23- **Self-Development**  
 24- **Don’t be a hero**  
 25- **Don’t Ask Questions… Ask For Help**  
 
