@@ -8,7 +8,7 @@
 
 ## The key points that every developer must master
 
-We learned about how we get a good developer mindset using key points when somebody proposes them, often they sound harmless such as:
+We learned about how we get a good developer mindset using key points when somebody proposes them, often they sound harmless such as:  
 1- **Conceiving The Purpose of Software**  
 2- **The Goals of Software Design**  
 3- **(Mis)understanding**  
@@ -16,13 +16,13 @@ We learned about how we get a good developer mindset using key points when someb
 5- **Complexity**  
 6- **Maintenance**  
 7- **Consistency**  
-8- **Prioritizing**
+8- **Prioritizing**  
 9- **Solving Problems**  
 10- **Good enough is fine**  
 11- **Predictions**  
 12- **Assumptions**  
 13- **Stop Reinventing**  
-|The only times it’s okay to reinvent the wheel is when any of the following are true:|
+<p> The only times it’s okay to reinvent the wheel is when any of the following are true:</p>  
 
 - You need something that doesn’t exist yet
 - All of the existing “wheels” are bad technologies or incapable of handling your needs
